@@ -17,7 +17,7 @@
     gulp-sass-lint \
     gulp-size \
     gulp-sourcemaps \
-    kss \
+    gulp-kss \
     node-sass-import-once \
     support-for \
     susy \
